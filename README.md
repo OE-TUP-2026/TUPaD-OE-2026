@@ -7,7 +7,7 @@
 | Rol | Nombre | Usuario GitHub |
 |-----|--------|---------------|
 | P1 Líder / P3 Revisor | Nombre Persona A | nn |
-| P2 Desarrollador | Nombre Persona B | nn |
+| P2 Desarrollador | Magnello Marcos | marcos-m |
 
 ## Escenario elegido
 **Escenario B — Análisis de Ventas de una Pequeña Empresa**
