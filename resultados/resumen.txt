@@ -1,0 +1,9 @@
+RESUMEN DE ANALISIS DE VENTAS - 2024
+=====================================
+Dataset fuente: sales_sample_2024.csv
+Registros analizados: 366
+
+Ventas totales del año:  $1,812,114.00
+Producto mas vendido:    Mouse
+Mes con mas ventas:      2024-09 ($173,024.00)
+Mes con menos ventas:    2024-10 ($127,380.00)
