@@ -6,7 +6,7 @@
 ## Integrantes
 | Rol | Nombre | Usuario GitHub |
 |-----|--------|---------------|
-| P1 Líder / P3 Revisor | Nombre Persona A | nn |
+| P1 Líder / P3 Revisor | Nombre Persona A | oliverio97 |
 | P2 Desarrollador | Magnello Marcos | marcos-m |
 
 ## Escenario elegido
